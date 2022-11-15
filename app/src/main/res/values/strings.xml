@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <string name="msg_no_result">لا توجد نتائج</string>
+    <string name="lbl_setttings">الاعدادت</string>
+    <string name="lbl_close">اغلاق</string>
+    <string name="error_happend">حدث خطأ</string>
+    <string name="kotlin_news">Kotlin News</string>
+    <string name="connect_network_please">رجاء الإتصال بالنت</string>
+
+</resources>
